@@ -1,0 +1,14 @@
+.resultt{
+    justify-content: center;
+    /* display:flex; */
+    text-align: center;
+    margin-top:20px;
+    p{
+        font-size: 16px;
+        font-weight:500;
+    }
+    span{
+        color:#150080;
+        font-size: 22px;
+    }
+}

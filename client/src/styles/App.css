@@ -1,0 +1,11 @@
+#form{
+    text-align: center;
+}
+.start{
+    text-align: center;
+}
+.quiz-container{
+    justify-content: center;
+    margin:auto;
+    margin-top: 70px;
+}
