@@ -6,8 +6,10 @@ Frontend- ReactJS Backend- Node.js, Express.js Database- MongoDB Payment- RazorP
 
 Get Started with it:-
 
-Clone the Repository
-npm i
-Make env file and enter your credentials- Frontend: REACT_APP_API = http://localhost:'port of your backend server" Backend: MONGODB_URL = your db url, JWT_SECRET = enter keys randomly, KEY_ID = your razorpay's account id, KEY_SECRET = your razorpay's account secret id (test mode)
-package.json(backend)- "start": "node server.js", "server": "nodemon server.js", "client": "npm start --prefix ./client", "dev": "concurrently "npm run server" "npm run client""
-npm run dev
+1. Clone the Repository
+2. npm i
+3. Make env file and enter your credentials-
+4. Frontend: REACT_APP_API = http://localhost:'port of your backend server"
+5.  Backend: MONGODB_URL = your db url, JWT_SECRET = enter keys randomly, KEY_ID = your razorpay's account id, KEY_SECRET = your razorpay's account secret id (test mode)
+6.  package.json(backend)- "start": "node server.js", "server": "nodemon server.js", "client": "npm start --prefix ./client", "dev": "concurrently "npm run server" "npm run client""
+7.  npm run dev
